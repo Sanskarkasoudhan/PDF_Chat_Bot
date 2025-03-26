@@ -124,7 +124,7 @@ If you find any bugs or have feature requests, feel free to **open an issue** or
 
 ## 📧 Contact
 
-For any queries, reach out at [**jasminrbheda@gmail.com**](mailto\:your.email@example.com) or create an issue in the repository!
+For any queries, reach out or create an issue in the repository!
 
 🚀 **Happy Coding!** 🎉
 
