@@ -35,7 +35,7 @@ This is a **Streamlit-based GenAI application** that allows users to upload a **
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/travizjass/pdfchatbot.git
+git clone https://github.com/Sanskarkasoudhan/PDF_Chat_Bot
 cd pdfchatbot
 ```
 
